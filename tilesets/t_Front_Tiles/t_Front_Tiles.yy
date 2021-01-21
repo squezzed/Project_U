@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_tiles_sprite_sheet9",
-    "path": "sprites/s_tiles_sprite_sheet9/s_tiles_sprite_sheet9.yy",
+    "name": "s_tileset",
+    "path": "sprites/s_tileset/s_tileset.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
@@ -146,7 +146,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
-  "name": "TileSet1",
+  "name": "t_Front_Tiles",
   "tags": [],
   "resourceType": "GMTileSet",
 }
