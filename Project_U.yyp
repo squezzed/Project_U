@@ -1,12 +1,17 @@
 {
   "resources": [
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},"order":0,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"s_player_sprite_sheet","path":"sprites/s_player_sprite_sheet/s_player_sprite_sheet.yy",},"order":0,},
+    {"id":{"name":"s_tiles_sprite_sheet9","path":"sprites/s_tiles_sprite_sheet9/s_tiles_sprite_sheet9.yy",},"order":1,},
     {"id":{"name":"s_player_run_left","path":"sprites/s_player_run_left/s_player_run_left.yy",},"order":1,},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},"order":0,},
     {"id":{"name":"s_player_run_down","path":"sprites/s_player_run_down/s_player_run_down.yy",},"order":4,},
+    {"id":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},"order":0,},
+    {"id":{"name":"s_tiles_sprite_sheet","path":"sprites/s_tiles_sprite_sheet/s_tiles_sprite_sheet.yy",},"order":1,},
     {"id":{"name":"s_player_run_up","path":"sprites/s_player_run_up/s_player_run_up.yy",},"order":3,},
     {"id":{"name":"s_player_run_right","path":"sprites/s_player_run_right/s_player_run_right.yy",},"order":2,},
+    {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -41,6 +46,8 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Player Sprites.yy","order":4,"resourceVersion":"1.0","name":"Player Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/World Sprites.yy","order":5,"resourceVersion":"1.0","name":"World Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Sprite Sheets.yy","order":6,"resourceVersion":"1.0","name":"Sprite Sheets","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
