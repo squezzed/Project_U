@@ -4,11 +4,10 @@ var speed_ = 1.3;
 var x_input = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var y_input = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
-
+///Movement
 if x_input == 0 and y_input == 0{
 	sprite_index = s_player;
 }
-
 if keyboard_check(ord("W")) and not place_meeting(x,y - speed_,o_solid){
 	y -= speed_;
 	sprite_index = s_player_run_up;
