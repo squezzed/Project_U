@@ -80,8 +80,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4e7f2d83-cedc-41dd-80d7-a8de6dfebd74","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Player Sprites",
-    "path": "folders/Sprites/Player Sprites.yy",
+    "name": "Movement",
+    "path": "folders/Sprites/Player Sprites/Movement.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_player_run_up",

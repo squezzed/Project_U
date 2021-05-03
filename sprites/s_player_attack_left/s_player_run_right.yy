@@ -76,8 +76,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"982b2d03-72bf-4f11-ac9f-08e8c5fe45f0","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Movement",
-    "path": "folders/Sprites/Player Sprites/Movement.yy",
+    "name": "Player Sprites",
+    "path": "folders/Sprites/Player Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_player_run_right",
