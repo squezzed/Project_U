@@ -1,7 +1,6 @@
 image_speed = 1;
 
 enum player {
-	idle,
 	move,
 	attack,
 	dash
@@ -15,12 +14,12 @@ enum dir {
 }
 
 direction_facing = dir.right;
-starting_state = player.idle;
+starting_state = player.move;
 state = starting_state;
 
 #region Sprite Lookup Tables
 
-sprite_[player.idle, dir.right] = s_player;
+
 
 sprite_[player.move, dir.right] = s_player_run_right;
 sprite_[player.move, dir.up] = s_player_run_up;
