@@ -1,5 +1,5 @@
 #region Action Inputs
 
-_attack_input = keyboard_check_pressed(vk_space);
+_attack_input = mouse_check_button_pressed(mb_left);
 
 #endregion
